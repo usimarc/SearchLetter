@@ -1,0 +1,15 @@
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/bin/Debug/net8.0/SearchLetter
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/bin/Debug/net8.0/SearchLetter.deps.json
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/bin/Debug/net8.0/SearchLetter.runtimeconfig.json
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/bin/Debug/net8.0/SearchLetter.dll
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/bin/Debug/net8.0/SearchLetter.pdb
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/obj/Debug/net8.0/SearchLetter.GeneratedMSBuildEditorConfig.editorconfig
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/obj/Debug/net8.0/SearchLetter.AssemblyInfoInputs.cache
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/obj/Debug/net8.0/SearchLetter.AssemblyInfo.cs
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/obj/Debug/net8.0/SearchLetter.csproj.CoreCompileInputs.cache
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/obj/Debug/net8.0/SearchLetter.sourcelink.json
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/obj/Debug/net8.0/SearchLetter.dll
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/obj/Debug/net8.0/refint/SearchLetter.dll
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/obj/Debug/net8.0/SearchLetter.pdb
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/obj/Debug/net8.0/SearchLetter.genruntimeconfig.cache
+/home/alpha/Documentos/SistemasDiversos/SearchLetter/obj/Debug/net8.0/ref/SearchLetter.dll
